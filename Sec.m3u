@@ -1,0 +1,87 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides /es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github .io/epg/guides/sd/guide.dstv.com.epg.xml"
+ 
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ESPAÑA", DAZN F1 HD
+http://fxorexworld.com:8080/n4AAbG53x9/5CvRFoZrfB/1181
+ 
+ 
+#EXTINF:0 type=logo="https://i0.wp.com/www.momentogp.com/wp-content/uploads/2019/02/movistar-renueva-contrato-emision-f1-201842591_1.jpg?fit =1024%2C678&ssl=1" group-title="ESPAÑA", MOVISTAR F1 HD
+http://fxorexworld.com:8080/n4AAbG53x9/5CvRFoZrfB/1161
+ 
+ 
+#EXTINF:0 type=logo="https://i0.wp.com/www.momentogp.com/wp-content/uploads/2019/02/movistar-renueva-contrato-emision-f1-201842591_1.jpg?fit =1024%2C678&ssl=1", MOVISTAR F1 HD op2
+http://fxorexworld.com:8080/n4AAbG53x9/5CvRFoZrfB/1109
+ 
+ 
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="ESPAÑA", LA1 TVE FHD
+http://fxorexworld.com:8080/n4AAbG53x9/5CvRFoZrfB/1127
+ 
+ 
+#EXTINF:0, TVE INTERNACIONAL
+http://210.210.155.35/uq2663/h/h158/index2.m3u8
+#EXTINF:0 type="favorites" channelId="1323" group="ESPAÑA" catchup="default", Canal 24 horas (720p) [No 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
+ 
+#EXTINF:0 type="favorites" channelId="-1" group="Noticias" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 Español ( 1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
+ 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/438-4380002_logopedia-the-logo-and-branding-site-pbs-kids.png", PBS 39 Pensilvania 
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392643399359082504/pngu4Q62_400x400.jpg", EL HISTONAUTA
+https://stmv1.voxtvhd.com.br/elhistonauta/elhistonauta/playlist.m3u8
+ 
+#EXTINF:0 type=logo="https://photos.live-tv-channels.org/tv-logo/qa-qatar-tv-3389.jpg", QUATAR TV1
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+ 
+#EXTINF:0 type=logo="https://photos.live-tv-channels.org/tv-logo/qa-qatar-tv-3389.jpg", QUATAR TV2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
+ 
+#EXTINF:0 type=logo="https://slfolks.com/upload/source/a3-bikini-network.png", BIKINI TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+ 
+#EXTINF:0 type=logo="https://play-lh.googleusercontent.com/cHMY_aUNV9RJWEtAf0YsJ0V16R-wYNe_rjocPPUuRtsWI7hszPNk4VkHtkzxgDyuzA", ADN 40
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
+ 
+#EXTINF:0 type=logo="https://tivihot.net/wp-content/uploads/2019/10/icon_channel_da-nang-1_tivihotnet.jpg", DRT1 VIETNAM
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+ 
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Vietnam_Television_logo_from_2013.svg", VTV VIETNAM
+http://210.210.155.37/session/401a45de-1fa0-11ed-9fec-b255943cceef/dr9445/h/h20/index.m3u8
+ 
+#EXTINF:0 type=logo="https://i.imgur.com/z4AuQtX.png", Televisión de Fiyi (720p) 
+https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ff7ce44d4b6d1e3239cf76b77a6eee5e43867cec3da80eb1c8b4f1bd2bd72317TV4 R.jpg", Orbit DOMINICANA
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1979191855.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.raisport.rai.it/dl/img/2020/02/1600x900_1582535461438.Rai_3_HD.jpg", RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG", TELEVEN SD
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png", CCTV5 HD
+http://111.40.196.32/wh7f454c46tw2462644415_1584956104/PLTV/88888888/224/3221225550/index.m3u8?icpid=88888888&RTS=1640434523&from=1&hms_devid=143
+ 
+#EXTINF:0 type=catchup="predeterminado", Reshet 13 ISRAEL (720p)
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:0 type=logo="https://i.imgur.com/aJGNyQn.png" catchup="predeterminado", RTL CROACIA (720p)
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:0 type=logo="https://i.imgur.com/w7GV86i.png" catchup="predeterminado", RTP1 (480p)
+http://162.212.178.69:41042/bysid/608
+#EXTINF:0 type=logo="https://i.imgur.com/ohXJmiR.png" catchup="predeterminado", RTP3 (720p) 
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016 %29.svg.png" catchup="predeterminado", RTP Azores (720p)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+ 
+#EXTINF:0 type=logo="https://i.imgur.com/eTDc0wd.jpg" catchup="predeterminado", RTP BOLIVIA (720p)
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+ 
+#EXTINF:-1, EURONEWS
+https://linear-255.frequency.stream/255/hls/master/playlist.m3u8
+ 
+#EXTINF:-1, amar la naturaleza
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+ 
+#EXTINF:0 type=logo="https://yt3.ggpht.com/ytc/AAUvwngrKwk4RBO4BZlRjFFDWOSq8faDC0GZQcSSH6kv=s900-ck-c0x00ffffff-no-rj", Canal 9 de Resistencia
+http://www.coninfo.net:1935/9linklive/live/chunklist_w747774635.m3u8
