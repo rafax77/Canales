@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:0 type="stream" catchup="default", CCTV1HD
-http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
+http://fxorexworld.com:8080/Jb09DuNwHA/AOTw9niEmO/1181
+
+
 
 #EXTINF:0 type="stream" catchup="default", Fox 43
 https://livevideo.tegnadigital.com/wpmt/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WPMT/elvs/live.m3u8
