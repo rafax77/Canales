@@ -24,6 +24,8 @@ https://v-ny.mybtv.net:443/live/548/1920x1080.m3u8
 https://v-ny.mybtv.net:443/live/550/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.abcotv.com/googleassistant/logos/WABC.png", ABC 7 HD NY
 https://v-ny.mybtv.net:443/live/554/1280x720.m3u8
+#EXTINF:0 type="stream" logo="https://lh3.googleusercontent.com/tJORmP-yE9G662Q_M22GgTbD82o7MzOQLAkKwerNi4QA0JJcQ9mAagEOVrQxAr8ZRhk" group-title="LOS ÁNGELES", CBS KCBS2 LA
+https://v-la.mybtv.net/live/161.m3u8
 #EXTINF:0 type="stream" logo="https://s30368.pcdn.co/wp-content/uploads/2020/04/nbc4.png" group-title="LOS ANGELES" , NBC4 FHD LOS ÁNGELES
 https://v-la.mybtv.net:443/live/82/1920x1080.m3u8
 #EXTINF:0 type=logo="https://cdn.abcotvs.com/dip/images/11477555_011822-kabc-live-channel-thumb-img.jpg" group-title="LOS ANGELES", ABC7 HD LA
