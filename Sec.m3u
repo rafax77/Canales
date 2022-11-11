@@ -31,7 +31,7 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:0, 24 horas
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:0 type=logo="https://provider-static.plex.tv/epg/images/thumbnails/euronewsespanol_artwork_vertical.jpg" group-title="C. DE NOTICIAS" catchup="default",, EURONEWS
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
