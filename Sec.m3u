@@ -1,1 +1,232 @@
 
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrKwk4RBO4BZlRjFFDWOSq8faDC0GZQcSSH6kv=s900-c-k-c0x00ffffff-no-rj" catchup="default", Canal 9 de Resistencia
+http://201.217.245.41:8081/testmelucas/canal9/track_2_3000/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.diario22.ar/notix2/multimedia/imagenes/fotos/2022-06-21/619696.jpg_crop.jpg", NORTE GRANDE FEDERAL
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/chaco-tv-digital-en-vivo-2751.png" catchup="default", CHACO TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w2121174683.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg", CANAL CIUDAD DE RESISTENCIA
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1532443071.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Televisión
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png", CANAL 9 LITORAL
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png", CANAL 3 DE ROSARIO
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png", CANAL 10 DE CORDOBA
+https://stream.arcast.live/canal10/ngrp:canal10_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg", LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0 type=logo="https://television.tiendec.com/wp-content/uploads/2022/06/34970a702bcb2748f65f-1.png" group-title="C. DE NOTICIAS", RT
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:0, 24 horas
+https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
+
+#EXTINF:0 type=logo="https://provider-static.plex.tv/epg/images/thumbnails/euronewsespanol_artwork_vertical.jpg" group-title="C. DE NOTICIAS" catchup="default",, EURONEWS
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 type=logo="https://play-lh.googleusercontent.com/3q8GXWbvr_5U2oh_m0v0rFVIdnJb1vu9pu3FzZwPTU0cgp0Y6rFqEem1ViCVTXArp34" group-title="C. DE NOTICIAS", TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="C. DE NOTICIAS", THE WEATHER CHANNEL
+https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/WCBS-TV_2_logo.png/1280px-WCBS-TV_2_logo.png" group-title="NUEVA YORK", CBS 2 NY
+https://v-ny.mybtv.net/live/545.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="NUEVA YORK", NBC 4 NY
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:-1 tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/11/Fox_5_NY_New_York_Logo.png" group-title="NUEVA YORK", FOX5 NY
+https://v-ny.mybtv.net/live/550.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.abcotv.com/googleassistant/logos/WABC.png", ABC 7 NY
+https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149688475295342594/qVc-5UNg_400x400.png" catchup="default" group-title="NUEVA YORK", Univision 41 NY
+https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1440706008095997963/e7Vw6ZRW_400x400.jpg" catchup="default" group-title="NUEVA YORK", Telemundo 47 NY
+https://v-ny.mybtv.net/live/659.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1015/696/png-transparent-unimas-borderfest-television-film-univision-marilyn-moore-television-text-logo.png" group-title="NUEVA YORK", UNIMAS NY
+https://v-ny.mybtv.net/live/713.m3u8
+
+#EXTINF:0 type="stream" logo="https://lh3.googleusercontent.com/tJORmP-yE9G662Q_M22GgTbD82o7MzOQLAkKwerNi4QA0JJcQ9mAagEOVrQxAr8ZRhk" group-title="LOS ANGELES",  CBS KCBS2 LA
+https://v-la.mybtv.net/live/161.m3u8
+#EXTINF:0 type="stream" logo="https://s30368.pcdn.co/wp-content/uploads/2020/04/nbc4.png" group-title="LOS ANGELES", NBC4 LOS ANGELES
+https://v-la.mybtv.net/live/82.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png"group-title="LOS ANGELES", KTLA5 L.A.
+https://v-la.mybtv.net/live/164.m3u8
+#EXTINF:0 tvg-logo="https://cdn.abcotvs.com/dip/images/11477555_011822-kabc-live-channel-thumb-img.jpg" group-title="LOS ANGELES", ABC7 LA
+https://v-la.mybtv.net/live/88.m3u8
+#EXTINF:0 type="stream" logo="https://m.media-amazon.com/images/M/MV5BNGMwOTA4OWItOTZiOC00Zjk1LTk5NWUtYTQyMjI1NTdlYTE2XkEyXkFqcGdeQXVyMjQ4ODQ5MDI@._V1_FMjpg_UX1000_.jpg"  group-title="LOS ANGELES", K-CAL9 LOS ANGELES
+https://v-la.mybtv.net/live/259.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Los-%C3%81ngeles-en-vivo-Online.png" group-title="LOS ANGELES", UNIVISIÓN 34 LOS ANGELES
+https://v-la.mybtv.net/live/178.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="LOS ANGELES", TELEMUNDO 52 FHD LA
+https://v-la.mybtv.net:443/live/267/1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2022/04/20/c8c834c1-99fd-461a-8a42-f6c7b611cae0/kpix-cbs-san-francisco-cbs-news-bay-area.jpg", CBS 5 A. DE LA BAHIA
+https://v-ca.mybtv.net/live/162.m3u8
+#EXTINF:-1 tvg-logo="https://fairbnbla.org/wp-content/uploads/2017/09/nbcbayarea_show.jpg", NBC11 A. DE LA BAHIA
+https://v-ca.mybtv.net/live/121.m3u8
+#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-francisco/univision-14-ca.png", Univisión 14 HD A.BAHIA
+https://v-ca.mybtv.net/live/148.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png", Telemundo 48 FHD  A. BAHIA
+https://v-ca.mybtv.net/live/140.m3u8
+
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/KPHO_2019_Logo.svg/1200px-KPHO_2019_Logo.svg.png" group-title="ARIZONA", CBS5 ARIZONA
+https://v-px.mybtv.net/live/48.m3u8
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Fts-phoenix-a.svg" group-title="ARIZONA", FOX10 ARIZONA
+https://v-px.mybtv.net/live/14.m3u8
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/1200px-KPNX_12_logo.svg.png", NBC12 ARIZONA
+https://v-px.mybtv.net/live/55.m3u8
+#EXTINF:0 type=logo="https://www.seekpng.com/png/detail/267-2679840_abc-15-arizona-abc-15.png" group-title="ARIZONA", ABC15 ARIZONA
+https://v-px.mybtv.net/live/27.m3u8
+#EXTINF:0 tvg-logo="https://cms.nhl.bamgrid.com/images/photos/329028270/1024x576/cut.png" group-title="ARIZONA", UNIVISION 28 ARIZONA
+https://v-px.mybtv.net/live/28.m3u8
+#EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/fefb7e0fc0f15cb6792f1c7b4639edf579b29f53cc4b34ec8cc9a8028f8db484.png" group-title="ARIZONA", TELEMUNDO 39 ARIZONA
+https://v-px.mybtv.net/live/39.m3u8
+
+#EXTINF:0 tvg-logo="https://media.telemundopr.com/2021/10/TLMD_PR_On_Light@3x.png?fit=441%2C120&quality=85&strip=all", Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png", NBC7 SAN DIEGO
+https://v-sd.mybtv.net/live/512.m3u8
+#EXTINF:0 type=logo="https://cdn-images-1.listennotes.com/podcasts/abc-10news-san-diego-kgtv-abc-10news-J5VWGd7e8Qb-xwVDp7fha1F.1400x1400.jpg", ABC SAN DIEGO
+https://v-sd.mybtv.net/live/491.m3u8
+
+#EXTINF:0 type=logo="https://play-lh.googleusercontent.com/LPTuMOVy99GXa24izXiJWq9Ao1OOCh3AJQJS2_UYL68Q3xO23vctG378O43XRbv3XHU", CBS3 PHILADELPHIA
+https://v-pi.mybtv.net/live/318.m3u8
+#EXTINF:0 type=logo="https://images-na.ssl-images-amazon.com/images/I/41o7WwBuIlL.png", ABC6 PHILADELPHIA
+https://v-pi.mybtv.net/live/333.m3u8
+#EXTINF:0 type=logo="https://kanepartners.net/wp-content/uploads/2013/02/NBC10-Philadelphia-Logo.png", NBC10 PHILADELPHIA
+https://v-pi.mybtv.net/live/345.m3u8
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png", FOX29 PHILADELPHIA
+https://v-pi.mybtv.net/live/369.m3u8
+
+#EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/0/06/WTHR_1995_flat.svg/revision/latest/scale-to-width-down/250?cb=20211228084042", NBC13 Indianapolis
+https://v-in.mybtv.net/live/804.m3u8
+
+#EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/tvstations/images/c/c0/Fox_5_Atlanta.png/revision/latest?cb=20190226005720", FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
+
+#EXTINF:0 type="stream" logo="https://play-lh.googleusercontent.com/71vUJ2jaPalNisxgzlAfly-jfBzMAtcK7xrhhPGP2nYe_dozH-zbOagABVuKr51v3Gw", CBS5 SAN ANTONIO, TEXAS
+https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
+
+#EXTINF:0 type="stream" logo="https://pictures.grabien.com/profiles/large/0045/45667.jpg", NBC 3 LAS VEGAS
+https://v-lv.mybtv.net/live/1093.m3u8
+#EXTINF:0 type=logo="https://yt3.ggpht.com/ytc/AMLnZu_IduImVOc5ZmfhgIJmQylJsYWIW9JmLnWjKygLwg=s900-c-k-c0x00ffffff-no-rj" catchup="default", ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/Q4c136t3lerNkkRN5YHvcdGPSB-4KH3R8KbpCwA5Fks8DirzpVouTtoafBukp0cQ-4kP" group-title="C. DE NOTICIAS", CBS NEWS
+https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://press.nbcnews.com/wp-content/uploads/2021/03/NBCNewsNOW.jpg" group-title="C. DE NOTICIAS", NBC NEWS NOW
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png" group-title="C. DE NOTICIAS", ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/7w6FB0pXZwcTB6am57OXYaOF-vra1-oAEtsMS1sRu7MazRzzUCpCY6rKwz8Xr4PzB3X5G4c=s900-c-k-c0x00ffffff-no-rj" group-title="C. DE NOTICIAS", FOX NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="2211" group-title="C. DE NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/310px-Flag_of_Italy.svg.png" catchup="default", RAINEWS24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="10" group-title="C. DE NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png", Россия 24 (576p) [Not 24/7]
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="363" group-title="C. DE NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png" catchup="default", Al Jazeera Arabic (1080p)
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png", ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w526319815.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2DpKHi9uNf2Llv3n2umRdUS9yTM6R6HwCoDJelSFctTNV2C3nT7zmojcLcjU9nqG5Lw&usqp=CAU", CANAL 11 MACHAGAI
+http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/chunklist_w495596342.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392643399359082504/pngu4Q62_400x400.jpg", EL HISTONAUTA
+https://stmv1.voxtvhd.com.br/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_", RETROPLUS ANGLOLATINOS 60’S-70’S-80’S-90’S-00’S 
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1286250930.m3u8
+#EXTINF: -1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_", RETROPLUS LINEA ROMANTICA 60’S-70’S-80’S-90’S-00’S 
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1834484448.m3u8
+#EXTINF: -1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_", TV DE MÚSICA RETRO
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1958476566_b750000.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png", SNT PARAGUAY
+https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" catchup="default", Trece Paraguay (720p) [Not 24/7]
+https://stream.rpc.com.py/live/trece.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", TELEAMAZONAS
+https://youvideostreaming.club/hls/ecutv4.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Ecuavisa_2006.png/revision/latest?cb=20180130013306&path-prefix=es", ECUAVISA
+https://youvideostreaming.club/hls/ecutv1.m3u8
+
+#EXTINF:-1, GUATEVISION
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=3000000.m3u8
+
+#EXTINF:0 type=logo="https://photos.live-tv-channels.org/tv-logo/qa-qatar-tv-3389.jpg", QUATAR TV1
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+#EXTINF:0 type=logo="https://www.inlife.tv/sites/default/files/logos/qtv-educational-two-tv.png", QUATAR TV2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Reshet-13-news-2022.png" catchup="predeterminado", Reshet 13 ISRAEL (720p)
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+
+
+#EXTINF: -1, TV GALICIA
+https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/324_%28CCMA%29_logo.svg", CANAL E/24 CATALUNIA
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+
+#EXTINF:0 type="stream" channelId="3838" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alfa_Logo_red_shadow.png/512px-Alfa_Logo_red_shadow.png" catchup="default", AlfaTV (432p) [Not 24/7]
+https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
+
+#EXTINF:0 type=logo="https://i.imgur.com/w7GV86i.png" catchup="default", RTP1 (480p)
+http://162.212.178.69:41042/bysid/608
+#EXTINF:0 type=logo="https://e7.pngegg.com/pngimages/35/456/png-clipart-rtl-television-germany-high-definition-television-vox-others-miscellaneous-television.png", RTL ALEMANIA
+https://s6.hopslan.com/rtlu111/index.m3u8
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/626px-ORF1_logo.svg.png", ORF1 AUSTRIA
+https://s6.hopslan.com/orf111/index.m3u8
+
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/800px-TRT_1_logo_%282021-%29.svg.png", TRT 1 TURQUIA
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/200px-Kanal_7_2002-%3F_logosu.webp.png", KANAL 7 TURQUIA
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+
+#EXTINF:0 type=logo="https://upload.wikimedia.org/wikipedia/en/a/a9/TV8_Mongolia.png", TV8 MONGOLIA
+https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+
+#EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://www.m3u.cl/logo/560_Band.png", Band  | BR
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M6_1987_logo.svg/1200px-M6_1987_logo.svg.png", M6 Francia
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/drama/images/0/0f/CCTV-1.png/revision/latest/scale-to-width-down/400?cb=20170925221657&path-prefix=es" catchup="default", CCTV1 HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/drama/images/0/0f/CCTV-1.png/revision/latest/scale-to-width-down/400?cb=20170925221657&path-prefix=es", CCTV1 SD INTERNET 
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+
+#EXTINF:0 type=logo="https://yt3.ggpht.com/ytc/AMLnZu_-q7kpHwztlzr5seK1S4lb275k0RWgRcw8Msf_=s900-c-k-c0x00ffffff-no-rj" group-title="C. DE NOTICIAS", NTV24 HD JAPON 
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1200px-NHK_World-Japan_TV.svg.png" group-title="C. DE NOTICIAS", Canal NHK WORDL JAPON INGLES
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://eizoshigoto.com/common/img/sp/search_special_job/nhk/title_04.png", NHK JAPAN
+https://nhk2.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/fuji-tv-logo.svg",  FUJI TV
+https://fujitv2.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/VH1_2013.svg/revision/latest?cb=20210424042141&path-prefix=es", VH1 ITALIA
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/D9ER06z.png", Palestina TV
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
